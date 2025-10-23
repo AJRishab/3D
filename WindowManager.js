@@ -12,7 +12,7 @@ class WindowManager
 		let that = this;
 
 		// event listener for when localStorage is changed from another window
-		addEventListener("storage", (event) => 
+		addEventListener("storage", (event) => zyrtudfyliuyreawriuiuureawdfhdty
 		{
 			if (event.key == "windows")
 			{
